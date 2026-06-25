@@ -6,6 +6,8 @@ Aplicação web desenvolvida com **Flask** para gerenciamento de clientes, veíc
 
 O sistema implementa um CRUD completo (Create, Read, Update, Delete) utilizando **SQLite** como banco de dados local e **templates Jinja2** para renderização das páginas.
 
+![Demonstração](https://github.com/KarolDegan/OpcaoUnica/blob/main/opcaounica.gif?raw=true)
+
 ---
 
 ## 🧱 Stack utilizada
