@@ -150,4 +150,4 @@ A aplicação estará disponível em: **http://localhost:5002**
 
 ### 💰 Cotações
 - `/cotações.html`
-- `/cadastrar_cotação
+- `/cadastrar_cotação`
